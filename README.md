@@ -16,7 +16,7 @@ Status - (string) The status of the project. Two statuses are used in the seeded
 PictureURL - (string) A URL to an image of the project. The seeded object use placeholder images from [Lorem Picsum](https://picsum.photos/) where you can get images of any size by using the following URL: `https://picsum.photos/{width}/{height}`
 
 ## Usage
-The API will be running on `http://localhost:5001` and `https://localhost:5000`
+The API will be running on `https://localhost:5001` and `http://localhost:5000`
 
 ## Installation
 Requirements:
