@@ -23,8 +23,8 @@ Requirements:
 .NET 8.0 download from [here](https://dotnet.microsoft.com/en-us/download) 
 
 ## API Endpoints
-GET /api/project  
-GET /api/project/{id}  
-POST /api/project  
-PUT /api/project/{id}  
-DELETE /api/project/{id}  
+GET /api/v1/project  
+GET /api/v1/project/{id}  
+POST /api/v1/project  
+PUT /api/v1/project/{id}  
+DELETE /api/v1/project/{id}  
